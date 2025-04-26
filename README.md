@@ -6,10 +6,9 @@ Este repositório contém as aulas de Python desenvolvidas durante o curso de **
 
 - **Aula 01** — Introdução à Linguagem Python 
 - **Aula 02** — Operadores e Estruturas de Decisão
-- **Aula 03** — 
+- **Aula 03** — Estruturas de Repetição
 - **Aula 04** — 
 - **Aula 05** — 
-- **Aula 06** — 
 
 ## 🛠️ Tecnologias usadas
 
