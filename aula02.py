@@ -11,7 +11,7 @@ print("O valor de c é ", c)
 print("O valor de d é ", d)
 print("O valor de e é ", e)
 print("O valor de d f ", f)
-#Imprime o texto entre aspas e a variável definida após a vírgula sem aspas
+# Imprime o texto entre aspas e a variável definida após a vírgula sem aspas
 
 # OPERADORES COMPARATIVOS 
 x = 11
