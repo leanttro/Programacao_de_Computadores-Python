@@ -1,4 +1,4 @@
-print('Olá, mundo!') # Imprime uma imagem 
+print('Olá, mundo!') # Imprime um texto
 
 idade = 27 # número inteiro (int)
 nome = "Leandro" # texto (string)
