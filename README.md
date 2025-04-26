@@ -1,6 +1,6 @@
 # Programação de Computadores - Python 🐍
 
-Este repositório contém as aulas de Python desenvolvidas durante o curso de **Programação de Computadores** na graduação de **Inteligência Artificial** (Cruzeiro do Sul).
+Este repositório contém as aulas de Python desenvolvidas durante o curso de **Programação de Computadores** na minha graduação de **Inteligência Artificial** (Cruzeiro do Sul).
 
 ## 📚 Aulas
 
