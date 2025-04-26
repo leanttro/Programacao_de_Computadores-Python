@@ -2,19 +2,13 @@
 for i in range(0,3,1):
     print("Oiii")
 
-print("Fim ")
+# Para = (i=0; i>3; i++): (início, parada, incremento)
 
-Para = (i=0; i>3; i++): # (início, parada, incremento)
-    print("Oiii!")
-#for i
-for i in range(0,3,1):
+# WHILE
+i = 0
+while i < 3:
     print("Oiii")
+    i = i + 1
 
 
 
-for i out range(5):
-    print("valor de i:"+ str(i))
-
-for i out range(5):
-    print("valor de i:"+ str(i))
-    print("valor de i:"+ str(-i))
