@@ -21,4 +21,4 @@ Este repositório contém as aulas de Python desenvolvidas durante o curso de **
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/Programacao_de_Computadores-Python.git
+[Clique aqui!](https://github.com/leanttro/Programacao_de_Computadores-Python.git)
