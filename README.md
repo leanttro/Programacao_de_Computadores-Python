@@ -4,7 +4,7 @@ Este repositório contém as aulas de Python desenvolvidas durante o curso de **
 
 ## 📚 Aulas
 
-- **Aula 01** — Introdução à Linguagem Python
+- **Aula 01** — Introdução à Linguagem Python (Finalizado)
 - **Aula 02** — 
 - **Aula 03** — 
 - **Aula 04** — 
@@ -20,5 +20,7 @@ Este repositório contém as aulas de Python desenvolvidas durante o curso de **
 ## 🚀 Como usar
 
 Clone o repositório:
+
 ```bash
-https://github.com/leanttro/Programacao_de_Computadores-Python.git
+git clone https://github.com/leanttro/Programacao_de_Computadores-Python.git
+
