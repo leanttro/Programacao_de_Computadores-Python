@@ -2,7 +2,7 @@
 
 Este repositório contém as aulas de Python desenvolvidas durante o curso de **Programação de Computadores** na minha graduação de **Inteligência Artificial** (Cruzeiro do Sul).
 
-## 📚 Aulas
+## Aulas
 
 - **Aula 01** — Introdução à Linguagem Python.
 - **Aula 02** — Operadores e Estruturas de Decisão.
@@ -10,15 +10,13 @@ Este repositório contém as aulas de Python desenvolvidas durante o curso de **
 - **Aula 04** — Estruturas de Dados.
 - **Aula 05** — 
 
-## 🛠️ Tecnologias usadas
+## Tecnologias usadas
 
 - [Python 3.13](https://www.python.org/)
 - Git e GitHub para versionamento.
 - Visual Studio Code.
 
-## 🚀 Como usar
-
-Clone o repositório:
+## Clone o repositório:
 
 ```bash
 git clone https://github.com/leanttro/Programacao_de_Computadores-Python.git
